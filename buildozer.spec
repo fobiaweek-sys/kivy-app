@@ -28,13 +28,13 @@ orientation = portrait
 fullscreen = 1
 
 # (str) Android API
-android.api = 35
+android.api = 33
 
 # (str) Android minimum API
-android.minapi = 23
+android.minapi = 21
 
 # (str) Android NDK
-android.ndk = 27c
+android.ndk = 25b
 
 # (str) Android architecture
 android.archs = arm64-v8a,armeabi-v7a
