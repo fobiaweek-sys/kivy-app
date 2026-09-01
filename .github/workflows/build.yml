@@ -21,7 +21,7 @@ jobs:
           sudo apt-get install -y \
             build-essential ccache git openjdk-17-jdk unzip wget curl \
             libffi-dev libssl-dev autoconf libtool pkg-config \
-            zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake
+            zlib1g-dev libncurses5-dev libncursesw5-dev cmake
 
       - name: Install Buildozer and Cython
         run: |
